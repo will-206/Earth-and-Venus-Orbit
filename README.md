@@ -5,4 +5,3 @@
   Earth and Venus Orbit</a> by William Helton (<a href="https://codepen.io/will-206">@will-206</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
