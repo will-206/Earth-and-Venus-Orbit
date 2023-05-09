@@ -6,6 +6,8 @@
 This is my attempt to recreate the animation from this reddit post in JavaScript
 https://www.reddit.com/r/GeometryIsNeat/comments/7jayqw/the_orbits_of_earth_and_venus/
 
+This code creates an animated solar system scene on an HTML5 canvas with a background of stars, a sun, and two planets (Venus and Earth). The planets rotate around the sun in their respective orbits, and a line is drawn between Venus and Earth every third day for eight complete rotations of Earth. After eight rotations, the lines and planets start to fade out, leaving behind only the "Petals of Venus".
+
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="PoyOBdJ" data-user="will-206" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/will-206/pen/PoyOBdJ">
   Earth and Venus Orbit</a> by <a href="https://codepen.io/will-206">@will-206</a>
@@ -13,5 +15,3 @@ https://www.reddit.com/r/GeometryIsNeat/comments/7jayqw/the_orbits_of_earth_and_
 </p>
 Based on bbaars solar system code (https://github.com/bbaars/SolarSystem)
 
-
-This code creates an animated solar system scene on an HTML5 canvas with a background of stars, a sun, and two planets (Venus and Earth). The planets rotate around the sun in their respective orbits, and a line is drawn between Venus and Earth every third day for eight complete rotations of Earth. After eight rotations, the lines and planets start to fade out, leaving behind only the "Petals of Venus".
